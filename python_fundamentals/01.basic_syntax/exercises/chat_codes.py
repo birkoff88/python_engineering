@@ -1,0 +1,14 @@
+number = int(input())
+
+for message in range (number):
+    current_number = int(input())
+    current_message = ""
+    if current_number == 88:
+        current_message = "Hello"
+    elif current_number == 86:
+        current_message = "How are you?"
+    elif current_number < 88:
+        current_message = "GREAT!"
+    else:
+        current_message = "Bye."
+    print(current_message)
