@@ -1,4 +1,4 @@
-# python_engineering
+# Python Engineering
 
 My solutions to the exercises, labs and exams from the **SoftUni Python** track — from the very first `print()` to object-oriented programming.
 
